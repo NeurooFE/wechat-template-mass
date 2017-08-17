@@ -1,0 +1,31 @@
+{
+  "name": "@neuroo_fe/wechat-template-mass",
+  "version": "0.0.1",
+  "description": "微信模版消息群发功能模块",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeurooFE/wechat-template-mass.git"
+  },
+  "keywords": [
+    "wechat",
+    "template",
+    "message",
+    "mass"
+  ],
+  "author": "yupeng.kuo <yupeng.kuo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeurooFE/wechat-template-mass/issues"
+  },
+  "homepage": "https://github.com/NeurooFE/wechat-template-mass#readme",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "co-wechat-api": "^3.1.0"
+  }
+}
