@@ -1,6 +1,6 @@
 {
   "name": "@neuroo_fe/wechat-template-mass",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "微信模版消息群发功能模块",
   "main": "index.js",
   "repository": {
